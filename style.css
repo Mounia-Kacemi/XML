@@ -1,0 +1,16 @@
+client{
+    padding: 10px;
+    margin: auto;
+    width: 80%;
+    display: block;
+    border: 1px solid gray;
+}
+date, lignes, produit,quantite{
+    padding: 10px;
+    margin: 10px;
+    width: 80%;
+    display: block;
+    border: 1px solid gray;
+    background-color: indigo;
+    color: ivory;
+}

@@ -1,0 +1,6 @@
+<!ELEMENT client (commande)*>
+<!ELEMENT commande (date,lignes)*>
+<!ELEMENT lignes (produit,quantite)*>
+<!ELEMENT produit (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT quantite (#PCDATA)>

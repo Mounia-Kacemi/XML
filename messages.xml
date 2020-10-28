@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="test.dtd" type="application/xml-dtd" ?>
+<?xml-stylesheet href="style.css" type="text/css" ?>
+<client>
+    <commande>
+        <date>12/10/2020</date>
+        <lignes>
+            <produit>Bimo</produit>
+            <quantite>5</quantite>
+        </lignes>
+    </commande>
+    <commande>
+        <date>27/10/2020</date>
+        <lignes>
+            <produit>Okla</produit>
+            <quantite>10</quantite>
+        </lignes>
+    </commande>
+</client><!--
+<message type="urgent">
+    <de>toto</de> 
+    <a>momo</a>
+    <corps>bonjour</corps>
+</message>
+-->
